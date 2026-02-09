@@ -2,11 +2,11 @@
 
 As imagens abaixo são formas didaticas de imaginarmos uma memoria de 8 bits.
 
-<img src="./img/mem1.png" width="444" height="192" alt="Imagem">
+<img src="./mem1.png" width="444" height="192" alt="Imagem">
 
-<img src="./img/mem2.png" width="178" height="356" alt="Imagem">
+<img src="./mem2.png" width="178" height="356" alt="Imagem">
 
-<img src="./img/mem3.png" alt="Imagem">
+<img src="./mem3.png" alt="Imagem">
 
 
 Para facilitar a compreensão, ao ler registrador, pence em um espaço de memoria de 8 bits (1 Byte), que pode ser lida ou escrita por meio de *Instruções Orientadas a Byte*.
@@ -110,4 +110,5 @@ atraso:                 ; Sub-rotina simples de delay
     RETURN
 
     END                 ; Fim do arquivo (obrigatório)
+
 ```
